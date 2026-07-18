@@ -1,6 +1,7 @@
 name: Airport Collect
 
 on:
+  disabled_manually:
   workflow_dispatch:
 
   schedule:
