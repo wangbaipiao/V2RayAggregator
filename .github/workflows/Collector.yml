@@ -1,6 +1,7 @@
 name: Collect
 
 on:
+  disabled_manually:
   workflow_dispatch:
 
   push:
