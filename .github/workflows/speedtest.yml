@@ -2,6 +2,7 @@ name: speedtest
 
 # 触发条件
 on:
+  disabled_manually:
   workflow_dispatch:
   
   push:
