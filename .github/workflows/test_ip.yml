@@ -1,6 +1,7 @@
 name: test_ip
 
 on:
+  disabled_manually:
   workflow_dispatch:
 
 jobs:
